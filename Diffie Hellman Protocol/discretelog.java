@@ -1,5 +1,5 @@
 import java.math.*;
-class GFG{ 
+class Discrete{ 
     /* Iterative Function to calculate (x ^ y)%p in  
     O(log y) */
     static BigInteger modexp(BigInteger x,BigInteger y,BigInteger p)
